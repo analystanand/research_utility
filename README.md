@@ -1,3 +1,9 @@
+### Research Utility 
+
+#### Open all the firefox browser given in csv files
+
+
+
 ### **Important Warning**
 - This script automatically opens multiple browser tabs to access URLs, which may trigger robot detection mechanisms on websites.
 - Use responsibly; the repository owner is not liable for any issues resulting from misuse or automated detection by websites.
